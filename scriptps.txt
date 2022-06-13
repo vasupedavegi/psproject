@@ -1,0 +1,1 @@
+new-azpublicipaddress -Name "pipelinepip" -ResourceGroupName "testrg" -Location "east us" -Sku Standard -Tier Regional -AllocationMethod Static -IpAddressVersion IPv4 -DomainNameLabel "testipi12332453t"
